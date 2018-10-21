@@ -5,6 +5,7 @@ Git tracks changes of files.
 create a new branch
 <<<<<<< HEAD
 creating a new branch is simple and quick
+try the new branch dev
 =======
 creating a new branch is simple and quick
 >>>>>>> featurel
